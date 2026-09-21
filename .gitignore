@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+weights/
+runs/
+*.egg-info/
+.venv/

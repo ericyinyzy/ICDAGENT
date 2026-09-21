@@ -1,0 +1,4002 @@
+[
+  {
+    "subject_id": "89849",
+    "hadm_id": "141705"
+  },
+  {
+    "subject_id": "92629",
+    "hadm_id": "189537"
+  },
+  {
+    "subject_id": "90335",
+    "hadm_id": "111459"
+  },
+  {
+    "subject_id": "99288",
+    "hadm_id": "179982"
+  },
+  {
+    "subject_id": "94517",
+    "hadm_id": "116972"
+  },
+  {
+    "subject_id": "92613",
+    "hadm_id": "160265"
+  },
+  {
+    "subject_id": "90539",
+    "hadm_id": "154506"
+  },
+  {
+    "subject_id": "89690",
+    "hadm_id": "194972"
+  },
+  {
+    "subject_id": "94075",
+    "hadm_id": "152898"
+  },
+  {
+    "subject_id": "96212",
+    "hadm_id": "121384"
+  },
+  {
+    "subject_id": "96544",
+    "hadm_id": "188749"
+  },
+  {
+    "subject_id": "93506",
+    "hadm_id": "151260"
+  },
+  {
+    "subject_id": "93595",
+    "hadm_id": "103246"
+  },
+  {
+    "subject_id": "89840",
+    "hadm_id": "186211"
+  },
+  {
+    "subject_id": "91199",
+    "hadm_id": "108165"
+  },
+  {
+    "subject_id": "90884",
+    "hadm_id": "189894"
+  },
+  {
+    "subject_id": "93564",
+    "hadm_id": "112179"
+  },
+  {
+    "subject_id": "96527",
+    "hadm_id": "124517"
+  },
+  {
+    "subject_id": "93518",
+    "hadm_id": "183806"
+  },
+  {
+    "subject_id": "98344",
+    "hadm_id": "170039"
+  },
+  {
+    "subject_id": "92287",
+    "hadm_id": "133462"
+  },
+  {
+    "subject_id": "91242",
+    "hadm_id": "181458"
+  },
+  {
+    "subject_id": "89124",
+    "hadm_id": "189821"
+  },
+  {
+    "subject_id": "94872",
+    "hadm_id": "136192"
+  },
+  {
+    "subject_id": "99346",
+    "hadm_id": "143984"
+  },
+  {
+    "subject_id": "90339",
+    "hadm_id": "167810"
+  },
+  {
+    "subject_id": "96922",
+    "hadm_id": "190957"
+  },
+  {
+    "subject_id": "94050",
+    "hadm_id": "173013"
+  },
+  {
+    "subject_id": "90049",
+    "hadm_id": "108184"
+  },
+  {
+    "subject_id": "89180",
+    "hadm_id": "186161"
+  },
+  {
+    "subject_id": "93324",
+    "hadm_id": "151671"
+  },
+  {
+    "subject_id": "98759",
+    "hadm_id": "175386"
+  },
+  {
+    "subject_id": "95000",
+    "hadm_id": "119682"
+  },
+  {
+    "subject_id": "90475",
+    "hadm_id": "129965"
+  },
+  {
+    "subject_id": "89760",
+    "hadm_id": "161352"
+  },
+  {
+    "subject_id": "90391",
+    "hadm_id": "176680"
+  },
+  {
+    "subject_id": "97848",
+    "hadm_id": "181653"
+  },
+  {
+    "subject_id": "90957",
+    "hadm_id": "170849"
+  },
+  {
+    "subject_id": "90776",
+    "hadm_id": "181396"
+  },
+  {
+    "subject_id": "99538",
+    "hadm_id": "128902"
+  },
+  {
+    "subject_id": "89402",
+    "hadm_id": "136507"
+  },
+  {
+    "subject_id": "92994",
+    "hadm_id": "108922"
+  },
+  {
+    "subject_id": "94799",
+    "hadm_id": "124374"
+  },
+  {
+    "subject_id": "96670",
+    "hadm_id": "116358"
+  },
+  {
+    "subject_id": "95390",
+    "hadm_id": "129275"
+  },
+  {
+    "subject_id": "92589",
+    "hadm_id": "187384"
+  },
+  {
+    "subject_id": "95312",
+    "hadm_id": "195507"
+  },
+  {
+    "subject_id": "89645",
+    "hadm_id": "135524"
+  },
+  {
+    "subject_id": "99287",
+    "hadm_id": "182660"
+  },
+  {
+    "subject_id": "93187",
+    "hadm_id": "121896"
+  },
+  {
+    "subject_id": "93623",
+    "hadm_id": "187232"
+  },
+  {
+    "subject_id": "96004",
+    "hadm_id": "141589"
+  },
+  {
+    "subject_id": "99707",
+    "hadm_id": "132573"
+  },
+  {
+    "subject_id": "95469",
+    "hadm_id": "173294"
+  },
+  {
+    "subject_id": "91769",
+    "hadm_id": "108754"
+  },
+  {
+    "subject_id": "97031",
+    "hadm_id": "191737"
+  },
+  {
+    "subject_id": "97484",
+    "hadm_id": "172304"
+  },
+  {
+    "subject_id": "96083",
+    "hadm_id": "189906"
+  },
+  {
+    "subject_id": "96577",
+    "hadm_id": "138443"
+  },
+  {
+    "subject_id": "93321",
+    "hadm_id": "115396"
+  },
+  {
+    "subject_id": "89290",
+    "hadm_id": "134406"
+  },
+  {
+    "subject_id": "94321",
+    "hadm_id": "117033"
+  },
+  {
+    "subject_id": "99291",
+    "hadm_id": "186413"
+  },
+  {
+    "subject_id": "97567",
+    "hadm_id": "128481"
+  },
+  {
+    "subject_id": "95895",
+    "hadm_id": "125448"
+  },
+  {
+    "subject_id": "94847",
+    "hadm_id": "162559"
+  },
+  {
+    "subject_id": "98139",
+    "hadm_id": "195771"
+  },
+  {
+    "subject_id": "96234",
+    "hadm_id": "167807"
+  },
+  {
+    "subject_id": "97475",
+    "hadm_id": "149542"
+  },
+  {
+    "subject_id": "99633",
+    "hadm_id": "110078"
+  },
+  {
+    "subject_id": "97842",
+    "hadm_id": "155272"
+  },
+  {
+    "subject_id": "96908",
+    "hadm_id": "138027"
+  },
+  {
+    "subject_id": "95523",
+    "hadm_id": "183757"
+  },
+  {
+    "subject_id": "95988",
+    "hadm_id": "155366"
+  },
+  {
+    "subject_id": "97876",
+    "hadm_id": "166889"
+  },
+  {
+    "subject_id": "94645",
+    "hadm_id": "178813"
+  },
+  {
+    "subject_id": "94021",
+    "hadm_id": "182256"
+  },
+  {
+    "subject_id": "95855",
+    "hadm_id": "196506"
+  },
+  {
+    "subject_id": "89565",
+    "hadm_id": "178705"
+  },
+  {
+    "subject_id": "99091",
+    "hadm_id": "185274"
+  },
+  {
+    "subject_id": "97564",
+    "hadm_id": "141922"
+  },
+  {
+    "subject_id": "91470",
+    "hadm_id": "197071"
+  },
+  {
+    "subject_id": "98698",
+    "hadm_id": "134977"
+  },
+  {
+    "subject_id": "90270",
+    "hadm_id": "182875"
+  },
+  {
+    "subject_id": "95536",
+    "hadm_id": "150469"
+  },
+  {
+    "subject_id": "97737",
+    "hadm_id": "158215"
+  },
+  {
+    "subject_id": "92531",
+    "hadm_id": "184997"
+  },
+  {
+    "subject_id": "91331",
+    "hadm_id": "166261"
+  },
+  {
+    "subject_id": "93535",
+    "hadm_id": "121562"
+  },
+  {
+    "subject_id": "93562",
+    "hadm_id": "185954"
+  },
+  {
+    "subject_id": "96427",
+    "hadm_id": "141802"
+  },
+  {
+    "subject_id": "94241",
+    "hadm_id": "118015"
+  },
+  {
+    "subject_id": "90120",
+    "hadm_id": "117195"
+  },
+  {
+    "subject_id": "98656",
+    "hadm_id": "138450"
+  },
+  {
+    "subject_id": "95115",
+    "hadm_id": "105650"
+  },
+  {
+    "subject_id": "94196",
+    "hadm_id": "172343"
+  },
+  {
+    "subject_id": "96669",
+    "hadm_id": "193592"
+  },
+  {
+    "subject_id": "99403",
+    "hadm_id": "150097"
+  },
+  {
+    "subject_id": "93556",
+    "hadm_id": "154802"
+  },
+  {
+    "subject_id": "89332",
+    "hadm_id": "125721"
+  },
+  {
+    "subject_id": "91550",
+    "hadm_id": "173861"
+  },
+  {
+    "subject_id": "96774",
+    "hadm_id": "129414"
+  },
+  {
+    "subject_id": "90353",
+    "hadm_id": "138984"
+  },
+  {
+    "subject_id": "97339",
+    "hadm_id": "198692"
+  },
+  {
+    "subject_id": "93874",
+    "hadm_id": "167788"
+  },
+  {
+    "subject_id": "89291",
+    "hadm_id": "186152"
+  },
+  {
+    "subject_id": "93705",
+    "hadm_id": "105362"
+  },
+  {
+    "subject_id": "92057",
+    "hadm_id": "158444"
+  },
+  {
+    "subject_id": "94472",
+    "hadm_id": "119136"
+  },
+  {
+    "subject_id": "96148",
+    "hadm_id": "135552"
+  },
+  {
+    "subject_id": "95747",
+    "hadm_id": "167336"
+  },
+  {
+    "subject_id": "98666",
+    "hadm_id": "127829"
+  },
+  {
+    "subject_id": "89957",
+    "hadm_id": "195472"
+  },
+  {
+    "subject_id": "99819",
+    "hadm_id": "126883"
+  },
+  {
+    "subject_id": "92934",
+    "hadm_id": "179904"
+  },
+  {
+    "subject_id": "95659",
+    "hadm_id": "114241"
+  },
+  {
+    "subject_id": "99231",
+    "hadm_id": "102589"
+  },
+  {
+    "subject_id": "97358",
+    "hadm_id": "178658"
+  },
+  {
+    "subject_id": "98623",
+    "hadm_id": "107520"
+  },
+  {
+    "subject_id": "92117",
+    "hadm_id": "101094"
+  },
+  {
+    "subject_id": "96284",
+    "hadm_id": "165127"
+  },
+  {
+    "subject_id": "95495",
+    "hadm_id": "134287"
+  },
+  {
+    "subject_id": "91449",
+    "hadm_id": "165020"
+  },
+  {
+    "subject_id": "91103",
+    "hadm_id": "156501"
+  },
+  {
+    "subject_id": "96212",
+    "hadm_id": "143221"
+  },
+  {
+    "subject_id": "94977",
+    "hadm_id": "118181"
+  },
+  {
+    "subject_id": "94066",
+    "hadm_id": "100301"
+  },
+  {
+    "subject_id": "99067",
+    "hadm_id": "130940"
+  },
+  {
+    "subject_id": "95186",
+    "hadm_id": "169330"
+  },
+  {
+    "subject_id": "89761",
+    "hadm_id": "154515"
+  },
+  {
+    "subject_id": "89236",
+    "hadm_id": "131839"
+  },
+  {
+    "subject_id": "90878",
+    "hadm_id": "194079"
+  },
+  {
+    "subject_id": "95111",
+    "hadm_id": "144472"
+  },
+  {
+    "subject_id": "91586",
+    "hadm_id": "165668"
+  },
+  {
+    "subject_id": "99870",
+    "hadm_id": "124555"
+  },
+  {
+    "subject_id": "92425",
+    "hadm_id": "197603"
+  },
+  {
+    "subject_id": "99645",
+    "hadm_id": "152926"
+  },
+  {
+    "subject_id": "99790",
+    "hadm_id": "183369"
+  },
+  {
+    "subject_id": "92684",
+    "hadm_id": "194630"
+  },
+  {
+    "subject_id": "94840",
+    "hadm_id": "180494"
+  },
+  {
+    "subject_id": "97429",
+    "hadm_id": "121960"
+  },
+  {
+    "subject_id": "94669",
+    "hadm_id": "153181"
+  },
+  {
+    "subject_id": "89112",
+    "hadm_id": "183380"
+  },
+  {
+    "subject_id": "90544",
+    "hadm_id": "177347"
+  },
+  {
+    "subject_id": "97156",
+    "hadm_id": "154291"
+  },
+  {
+    "subject_id": "89992",
+    "hadm_id": "162963"
+  },
+  {
+    "subject_id": "95860",
+    "hadm_id": "147544"
+  },
+  {
+    "subject_id": "93745",
+    "hadm_id": "134107"
+  },
+  {
+    "subject_id": "98420",
+    "hadm_id": "123804"
+  },
+  {
+    "subject_id": "90354",
+    "hadm_id": "165601"
+  },
+  {
+    "subject_id": "90273",
+    "hadm_id": "189779"
+  },
+  {
+    "subject_id": "94828",
+    "hadm_id": "150832"
+  },
+  {
+    "subject_id": "89212",
+    "hadm_id": "159908"
+  },
+  {
+    "subject_id": "96199",
+    "hadm_id": "174675"
+  },
+  {
+    "subject_id": "99903",
+    "hadm_id": "135939"
+  },
+  {
+    "subject_id": "99685",
+    "hadm_id": "104582"
+  },
+  {
+    "subject_id": "96338",
+    "hadm_id": "146238"
+  },
+  {
+    "subject_id": "98253",
+    "hadm_id": "121656"
+  },
+  {
+    "subject_id": "97441",
+    "hadm_id": "138440"
+  },
+  {
+    "subject_id": "94446",
+    "hadm_id": "151495"
+  },
+  {
+    "subject_id": "89536",
+    "hadm_id": "115997"
+  },
+  {
+    "subject_id": "93391",
+    "hadm_id": "152993"
+  },
+  {
+    "subject_id": "92551",
+    "hadm_id": "133122"
+  },
+  {
+    "subject_id": "95351",
+    "hadm_id": "110878"
+  },
+  {
+    "subject_id": "89584",
+    "hadm_id": "164476"
+  },
+  {
+    "subject_id": "99063",
+    "hadm_id": "166460"
+  },
+  {
+    "subject_id": "96537",
+    "hadm_id": "111266"
+  },
+  {
+    "subject_id": "99708",
+    "hadm_id": "183397"
+  },
+  {
+    "subject_id": "94597",
+    "hadm_id": "124793"
+  },
+  {
+    "subject_id": "93662",
+    "hadm_id": "156179"
+  },
+  {
+    "subject_id": "89446",
+    "hadm_id": "197193"
+  },
+  {
+    "subject_id": "97488",
+    "hadm_id": "152542"
+  },
+  {
+    "subject_id": "97441",
+    "hadm_id": "192102"
+  },
+  {
+    "subject_id": "91245",
+    "hadm_id": "145215"
+  },
+  {
+    "subject_id": "94642",
+    "hadm_id": "150722"
+  },
+  {
+    "subject_id": "90012",
+    "hadm_id": "145531"
+  },
+  {
+    "subject_id": "98589",
+    "hadm_id": "113941"
+  },
+  {
+    "subject_id": "98015",
+    "hadm_id": "129709"
+  },
+  {
+    "subject_id": "90990",
+    "hadm_id": "102535"
+  },
+  {
+    "subject_id": "93996",
+    "hadm_id": "154786"
+  },
+  {
+    "subject_id": "97877",
+    "hadm_id": "166159"
+  },
+  {
+    "subject_id": "92137",
+    "hadm_id": "103726"
+  },
+  {
+    "subject_id": "98952",
+    "hadm_id": "151098"
+  },
+  {
+    "subject_id": "90198",
+    "hadm_id": "114498"
+  },
+  {
+    "subject_id": "97327",
+    "hadm_id": "121397"
+  },
+  {
+    "subject_id": "89929",
+    "hadm_id": "118735"
+  },
+  {
+    "subject_id": "99141",
+    "hadm_id": "144869"
+  },
+  {
+    "subject_id": "95951",
+    "hadm_id": "146222"
+  },
+  {
+    "subject_id": "94195",
+    "hadm_id": "140599"
+  },
+  {
+    "subject_id": "96225",
+    "hadm_id": "102605"
+  },
+  {
+    "subject_id": "93194",
+    "hadm_id": "126575"
+  },
+  {
+    "subject_id": "91008",
+    "hadm_id": "192849"
+  },
+  {
+    "subject_id": "97706",
+    "hadm_id": "163893"
+  },
+  {
+    "subject_id": "99337",
+    "hadm_id": "140671"
+  },
+  {
+    "subject_id": "92985",
+    "hadm_id": "162894"
+  },
+  {
+    "subject_id": "94220",
+    "hadm_id": "108129"
+  },
+  {
+    "subject_id": "93950",
+    "hadm_id": "192009"
+  },
+  {
+    "subject_id": "90780",
+    "hadm_id": "111145"
+  },
+  {
+    "subject_id": "96187",
+    "hadm_id": "108082"
+  },
+  {
+    "subject_id": "93564",
+    "hadm_id": "187277"
+  },
+  {
+    "subject_id": "95929",
+    "hadm_id": "160996"
+  },
+  {
+    "subject_id": "90699",
+    "hadm_id": "128548"
+  },
+  {
+    "subject_id": "97353",
+    "hadm_id": "125316"
+  },
+  {
+    "subject_id": "91295",
+    "hadm_id": "158759"
+  },
+  {
+    "subject_id": "96808",
+    "hadm_id": "101399"
+  },
+  {
+    "subject_id": "94167",
+    "hadm_id": "109535"
+  },
+  {
+    "subject_id": "94821",
+    "hadm_id": "196738"
+  },
+  {
+    "subject_id": "89992",
+    "hadm_id": "135343"
+  },
+  {
+    "subject_id": "98925",
+    "hadm_id": "161355"
+  },
+  {
+    "subject_id": "90890",
+    "hadm_id": "112210"
+  },
+  {
+    "subject_id": "95090",
+    "hadm_id": "118351"
+  },
+  {
+    "subject_id": "97868",
+    "hadm_id": "191761"
+  },
+  {
+    "subject_id": "89398",
+    "hadm_id": "153410"
+  },
+  {
+    "subject_id": "93671",
+    "hadm_id": "119010"
+  },
+  {
+    "subject_id": "95013",
+    "hadm_id": "177918"
+  },
+  {
+    "subject_id": "98878",
+    "hadm_id": "162526"
+  },
+  {
+    "subject_id": "98899",
+    "hadm_id": "115672"
+  },
+  {
+    "subject_id": "98622",
+    "hadm_id": "192329"
+  },
+  {
+    "subject_id": "98494",
+    "hadm_id": "114109"
+  },
+  {
+    "subject_id": "99408",
+    "hadm_id": "169240"
+  },
+  {
+    "subject_id": "95038",
+    "hadm_id": "119672"
+  },
+  {
+    "subject_id": "93142",
+    "hadm_id": "192502"
+  },
+  {
+    "subject_id": "94785",
+    "hadm_id": "121800"
+  },
+  {
+    "subject_id": "89503",
+    "hadm_id": "176658"
+  },
+  {
+    "subject_id": "91169",
+    "hadm_id": "123771"
+  },
+  {
+    "subject_id": "99830",
+    "hadm_id": "176834"
+  },
+  {
+    "subject_id": "93418",
+    "hadm_id": "179414"
+  },
+  {
+    "subject_id": "95925",
+    "hadm_id": "118802"
+  },
+  {
+    "subject_id": "95895",
+    "hadm_id": "199262"
+  },
+  {
+    "subject_id": "96445",
+    "hadm_id": "163440"
+  },
+  {
+    "subject_id": "90899",
+    "hadm_id": "153209"
+  },
+  {
+    "subject_id": "93628",
+    "hadm_id": "134497"
+  },
+  {
+    "subject_id": "95736",
+    "hadm_id": "146722"
+  },
+  {
+    "subject_id": "90508",
+    "hadm_id": "142580"
+  },
+  {
+    "subject_id": "96324",
+    "hadm_id": "136039"
+  },
+  {
+    "subject_id": "98709",
+    "hadm_id": "164644"
+  },
+  {
+    "subject_id": "93952",
+    "hadm_id": "164486"
+  },
+  {
+    "subject_id": "91992",
+    "hadm_id": "195276"
+  },
+  {
+    "subject_id": "96643",
+    "hadm_id": "152852"
+  },
+  {
+    "subject_id": "93588",
+    "hadm_id": "179213"
+  },
+  {
+    "subject_id": "90392",
+    "hadm_id": "107315"
+  },
+  {
+    "subject_id": "99521",
+    "hadm_id": "116221"
+  },
+  {
+    "subject_id": "95811",
+    "hadm_id": "153340"
+  },
+  {
+    "subject_id": "92277",
+    "hadm_id": "123767"
+  },
+  {
+    "subject_id": "91726",
+    "hadm_id": "113840"
+  },
+  {
+    "subject_id": "93390",
+    "hadm_id": "192099"
+  },
+  {
+    "subject_id": "92585",
+    "hadm_id": "151581"
+  },
+  {
+    "subject_id": "94319",
+    "hadm_id": "147628"
+  },
+  {
+    "subject_id": "89754",
+    "hadm_id": "173815"
+  },
+  {
+    "subject_id": "95740",
+    "hadm_id": "169731"
+  },
+  {
+    "subject_id": "90237",
+    "hadm_id": "166236"
+  },
+  {
+    "subject_id": "91631",
+    "hadm_id": "160883"
+  },
+  {
+    "subject_id": "95798",
+    "hadm_id": "136645"
+  },
+  {
+    "subject_id": "91670",
+    "hadm_id": "188625"
+  },
+  {
+    "subject_id": "99384",
+    "hadm_id": "147442"
+  },
+  {
+    "subject_id": "89347",
+    "hadm_id": "165011"
+  },
+  {
+    "subject_id": "91596",
+    "hadm_id": "199170"
+  },
+  {
+    "subject_id": "92636",
+    "hadm_id": "128511"
+  },
+  {
+    "subject_id": "96577",
+    "hadm_id": "108974"
+  },
+  {
+    "subject_id": "92075",
+    "hadm_id": "130333"
+  },
+  {
+    "subject_id": "90317",
+    "hadm_id": "139828"
+  },
+  {
+    "subject_id": "96950",
+    "hadm_id": "117509"
+  },
+  {
+    "subject_id": "93336",
+    "hadm_id": "127977"
+  },
+  {
+    "subject_id": "90302",
+    "hadm_id": "184640"
+  },
+  {
+    "subject_id": "93596",
+    "hadm_id": "155605"
+  },
+  {
+    "subject_id": "96429",
+    "hadm_id": "109924"
+  },
+  {
+    "subject_id": "96226",
+    "hadm_id": "113006"
+  },
+  {
+    "subject_id": "90865",
+    "hadm_id": "180093"
+  },
+  {
+    "subject_id": "96177",
+    "hadm_id": "163420"
+  },
+  {
+    "subject_id": "90886",
+    "hadm_id": "177346"
+  },
+  {
+    "subject_id": "95503",
+    "hadm_id": "121779"
+  },
+  {
+    "subject_id": "95634",
+    "hadm_id": "165644"
+  },
+  {
+    "subject_id": "98749",
+    "hadm_id": "158912"
+  },
+  {
+    "subject_id": "99806",
+    "hadm_id": "133851"
+  },
+  {
+    "subject_id": "99837",
+    "hadm_id": "197195"
+  },
+  {
+    "subject_id": "92438",
+    "hadm_id": "118589"
+  },
+  {
+    "subject_id": "98552",
+    "hadm_id": "198795"
+  },
+  {
+    "subject_id": "96699",
+    "hadm_id": "186382"
+  },
+  {
+    "subject_id": "99777",
+    "hadm_id": "197851"
+  },
+  {
+    "subject_id": "93593",
+    "hadm_id": "164601"
+  },
+  {
+    "subject_id": "94297",
+    "hadm_id": "107122"
+  },
+  {
+    "subject_id": "91975",
+    "hadm_id": "136078"
+  },
+  {
+    "subject_id": "95750",
+    "hadm_id": "170338"
+  },
+  {
+    "subject_id": "90772",
+    "hadm_id": "144993"
+  },
+  {
+    "subject_id": "97037",
+    "hadm_id": "172436"
+  },
+  {
+    "subject_id": "97441",
+    "hadm_id": "123913"
+  },
+  {
+    "subject_id": "89176",
+    "hadm_id": "197009"
+  },
+  {
+    "subject_id": "96950",
+    "hadm_id": "190421"
+  },
+  {
+    "subject_id": "97032",
+    "hadm_id": "128262"
+  },
+  {
+    "subject_id": "95658",
+    "hadm_id": "191783"
+  },
+  {
+    "subject_id": "99832",
+    "hadm_id": "192563"
+  },
+  {
+    "subject_id": "98268",
+    "hadm_id": "111208"
+  },
+  {
+    "subject_id": "96759",
+    "hadm_id": "166000"
+  },
+  {
+    "subject_id": "90725",
+    "hadm_id": "115850"
+  },
+  {
+    "subject_id": "98220",
+    "hadm_id": "171904"
+  },
+  {
+    "subject_id": "99999",
+    "hadm_id": "113369"
+  },
+  {
+    "subject_id": "93836",
+    "hadm_id": "197401"
+  },
+  {
+    "subject_id": "95182",
+    "hadm_id": "133047"
+  },
+  {
+    "subject_id": "93844",
+    "hadm_id": "188035"
+  },
+  {
+    "subject_id": "97885",
+    "hadm_id": "174764"
+  },
+  {
+    "subject_id": "94677",
+    "hadm_id": "162277"
+  },
+  {
+    "subject_id": "99897",
+    "hadm_id": "181057"
+  },
+  {
+    "subject_id": "93810",
+    "hadm_id": "180161"
+  },
+  {
+    "subject_id": "91867",
+    "hadm_id": "178727"
+  },
+  {
+    "subject_id": "95004",
+    "hadm_id": "118951"
+  },
+  {
+    "subject_id": "93616",
+    "hadm_id": "192965"
+  },
+  {
+    "subject_id": "91580",
+    "hadm_id": "128400"
+  },
+  {
+    "subject_id": "91465",
+    "hadm_id": "174769"
+  },
+  {
+    "subject_id": "94118",
+    "hadm_id": "124816"
+  },
+  {
+    "subject_id": "89992",
+    "hadm_id": "162395"
+  },
+  {
+    "subject_id": "94597",
+    "hadm_id": "139036"
+  },
+  {
+    "subject_id": "94025",
+    "hadm_id": "145724"
+  },
+  {
+    "subject_id": "95737",
+    "hadm_id": "171862"
+  },
+  {
+    "subject_id": "92590",
+    "hadm_id": "159846"
+  },
+  {
+    "subject_id": "91399",
+    "hadm_id": "152252"
+  },
+  {
+    "subject_id": "96479",
+    "hadm_id": "169878"
+  },
+  {
+    "subject_id": "94046",
+    "hadm_id": "115445"
+  },
+  {
+    "subject_id": "99364",
+    "hadm_id": "183367"
+  },
+  {
+    "subject_id": "90044",
+    "hadm_id": "100453"
+  },
+  {
+    "subject_id": "93039",
+    "hadm_id": "195562"
+  },
+  {
+    "subject_id": "99556",
+    "hadm_id": "196292"
+  },
+  {
+    "subject_id": "98994",
+    "hadm_id": "161559"
+  },
+  {
+    "subject_id": "95765",
+    "hadm_id": "111529"
+  },
+  {
+    "subject_id": "96997",
+    "hadm_id": "170022"
+  },
+  {
+    "subject_id": "99216",
+    "hadm_id": "113331"
+  },
+  {
+    "subject_id": "89900",
+    "hadm_id": "136628"
+  },
+  {
+    "subject_id": "94091",
+    "hadm_id": "140891"
+  },
+  {
+    "subject_id": "89840",
+    "hadm_id": "137767"
+  },
+  {
+    "subject_id": "96772",
+    "hadm_id": "156052"
+  },
+  {
+    "subject_id": "94202",
+    "hadm_id": "158722"
+  },
+  {
+    "subject_id": "93077",
+    "hadm_id": "112952"
+  },
+  {
+    "subject_id": "90538",
+    "hadm_id": "157942"
+  },
+  {
+    "subject_id": "95239",
+    "hadm_id": "157940"
+  },
+  {
+    "subject_id": "96674",
+    "hadm_id": "121538"
+  },
+  {
+    "subject_id": "98413",
+    "hadm_id": "187377"
+  },
+  {
+    "subject_id": "93411",
+    "hadm_id": "143685"
+  },
+  {
+    "subject_id": "92253",
+    "hadm_id": "174652"
+  },
+  {
+    "subject_id": "97567",
+    "hadm_id": "186941"
+  },
+  {
+    "subject_id": "94977",
+    "hadm_id": "188653"
+  },
+  {
+    "subject_id": "92610",
+    "hadm_id": "101481"
+  },
+  {
+    "subject_id": "94921",
+    "hadm_id": "127779"
+  },
+  {
+    "subject_id": "96553",
+    "hadm_id": "194204"
+  },
+  {
+    "subject_id": "96651",
+    "hadm_id": "195788"
+  },
+  {
+    "subject_id": "93631",
+    "hadm_id": "130226"
+  },
+  {
+    "subject_id": "92326",
+    "hadm_id": "182163"
+  },
+  {
+    "subject_id": "98209",
+    "hadm_id": "186464"
+  },
+  {
+    "subject_id": "95100",
+    "hadm_id": "127420"
+  },
+  {
+    "subject_id": "99629",
+    "hadm_id": "107034"
+  },
+  {
+    "subject_id": "96686",
+    "hadm_id": "135439"
+  },
+  {
+    "subject_id": "92724",
+    "hadm_id": "191381"
+  },
+  {
+    "subject_id": "99939",
+    "hadm_id": "159023"
+  },
+  {
+    "subject_id": "89801",
+    "hadm_id": "126435"
+  },
+  {
+    "subject_id": "91477",
+    "hadm_id": "141967"
+  },
+  {
+    "subject_id": "90735",
+    "hadm_id": "179695"
+  },
+  {
+    "subject_id": "89386",
+    "hadm_id": "101903"
+  },
+  {
+    "subject_id": "94777",
+    "hadm_id": "119704"
+  },
+  {
+    "subject_id": "97771",
+    "hadm_id": "191940"
+  },
+  {
+    "subject_id": "95688",
+    "hadm_id": "190190"
+  },
+  {
+    "subject_id": "98800",
+    "hadm_id": "191113"
+  },
+  {
+    "subject_id": "90845",
+    "hadm_id": "108810"
+  },
+  {
+    "subject_id": "95396",
+    "hadm_id": "127742"
+  },
+  {
+    "subject_id": "99361",
+    "hadm_id": "151032"
+  },
+  {
+    "subject_id": "89754",
+    "hadm_id": "129165"
+  },
+  {
+    "subject_id": "95321",
+    "hadm_id": "131563"
+  },
+  {
+    "subject_id": "96260",
+    "hadm_id": "139966"
+  },
+  {
+    "subject_id": "90944",
+    "hadm_id": "102327"
+  },
+  {
+    "subject_id": "93431",
+    "hadm_id": "150045"
+  },
+  {
+    "subject_id": "93970",
+    "hadm_id": "135216"
+  },
+  {
+    "subject_id": "91925",
+    "hadm_id": "121865"
+  },
+  {
+    "subject_id": "96923",
+    "hadm_id": "189534"
+  },
+  {
+    "subject_id": "89568",
+    "hadm_id": "155962"
+  },
+  {
+    "subject_id": "95220",
+    "hadm_id": "130158"
+  },
+  {
+    "subject_id": "95772",
+    "hadm_id": "102754"
+  },
+  {
+    "subject_id": "96951",
+    "hadm_id": "126470"
+  },
+  {
+    "subject_id": "92947",
+    "hadm_id": "190453"
+  },
+  {
+    "subject_id": "98402",
+    "hadm_id": "190856"
+  },
+  {
+    "subject_id": "96719",
+    "hadm_id": "164743"
+  },
+  {
+    "subject_id": "89309",
+    "hadm_id": "181994"
+  },
+  {
+    "subject_id": "93379",
+    "hadm_id": "101286"
+  },
+  {
+    "subject_id": "98744",
+    "hadm_id": "186076"
+  },
+  {
+    "subject_id": "94172",
+    "hadm_id": "167207"
+  },
+  {
+    "subject_id": "92025",
+    "hadm_id": "160456"
+  },
+  {
+    "subject_id": "98185",
+    "hadm_id": "139524"
+  },
+  {
+    "subject_id": "99499",
+    "hadm_id": "141885"
+  },
+  {
+    "subject_id": "92383",
+    "hadm_id": "167398"
+  },
+  {
+    "subject_id": "92873",
+    "hadm_id": "142321"
+  },
+  {
+    "subject_id": "91309",
+    "hadm_id": "115841"
+  },
+  {
+    "subject_id": "94597",
+    "hadm_id": "183333"
+  },
+  {
+    "subject_id": "93804",
+    "hadm_id": "153077"
+  },
+  {
+    "subject_id": "94734",
+    "hadm_id": "154050"
+  },
+  {
+    "subject_id": "89755",
+    "hadm_id": "182086"
+  },
+  {
+    "subject_id": "97018",
+    "hadm_id": "177339"
+  },
+  {
+    "subject_id": "89292",
+    "hadm_id": "138523"
+  },
+  {
+    "subject_id": "95694",
+    "hadm_id": "117851"
+  },
+  {
+    "subject_id": "97933",
+    "hadm_id": "181022"
+  },
+  {
+    "subject_id": "91249",
+    "hadm_id": "112808"
+  },
+  {
+    "subject_id": "91648",
+    "hadm_id": "125521"
+  },
+  {
+    "subject_id": "89794",
+    "hadm_id": "125939"
+  },
+  {
+    "subject_id": "92645",
+    "hadm_id": "100581"
+  },
+  {
+    "subject_id": "96040",
+    "hadm_id": "143329"
+  },
+  {
+    "subject_id": "91284",
+    "hadm_id": "130174"
+  },
+  {
+    "subject_id": "96142",
+    "hadm_id": "112031"
+  },
+  {
+    "subject_id": "91591",
+    "hadm_id": "107671"
+  },
+  {
+    "subject_id": "93123",
+    "hadm_id": "134529"
+  },
+  {
+    "subject_id": "95735",
+    "hadm_id": "102197"
+  },
+  {
+    "subject_id": "95282",
+    "hadm_id": "154752"
+  },
+  {
+    "subject_id": "99096",
+    "hadm_id": "129330"
+  },
+  {
+    "subject_id": "92843",
+    "hadm_id": "168296"
+  },
+  {
+    "subject_id": "96094",
+    "hadm_id": "157284"
+  },
+  {
+    "subject_id": "90388",
+    "hadm_id": "156936"
+  },
+  {
+    "subject_id": "90484",
+    "hadm_id": "147829"
+  },
+  {
+    "subject_id": "94959",
+    "hadm_id": "197144"
+  },
+  {
+    "subject_id": "97065",
+    "hadm_id": "108227"
+  },
+  {
+    "subject_id": "96321",
+    "hadm_id": "162131"
+  },
+  {
+    "subject_id": "96456",
+    "hadm_id": "192435"
+  },
+  {
+    "subject_id": "92800",
+    "hadm_id": "172885"
+  },
+  {
+    "subject_id": "91601",
+    "hadm_id": "194397"
+  },
+  {
+    "subject_id": "99776",
+    "hadm_id": "136231"
+  },
+  {
+    "subject_id": "90032",
+    "hadm_id": "127637"
+  },
+  {
+    "subject_id": "97441",
+    "hadm_id": "150758"
+  },
+  {
+    "subject_id": "94254",
+    "hadm_id": "114883"
+  },
+  {
+    "subject_id": "94484",
+    "hadm_id": "182481"
+  },
+  {
+    "subject_id": "95000",
+    "hadm_id": "138606"
+  },
+  {
+    "subject_id": "90585",
+    "hadm_id": "112627"
+  },
+  {
+    "subject_id": "89964",
+    "hadm_id": "118012"
+  },
+  {
+    "subject_id": "96639",
+    "hadm_id": "154468"
+  },
+  {
+    "subject_id": "94828",
+    "hadm_id": "116543"
+  },
+  {
+    "subject_id": "97677",
+    "hadm_id": "169589"
+  },
+  {
+    "subject_id": "94872",
+    "hadm_id": "123622"
+  },
+  {
+    "subject_id": "99356",
+    "hadm_id": "142412"
+  },
+  {
+    "subject_id": "93784",
+    "hadm_id": "172532"
+  },
+  {
+    "subject_id": "91103",
+    "hadm_id": "170815"
+  },
+  {
+    "subject_id": "95638",
+    "hadm_id": "115853"
+  },
+  {
+    "subject_id": "99545",
+    "hadm_id": "107690"
+  },
+  {
+    "subject_id": "91599",
+    "hadm_id": "121119"
+  },
+  {
+    "subject_id": "91832",
+    "hadm_id": "173664"
+  },
+  {
+    "subject_id": "92243",
+    "hadm_id": "158392"
+  },
+  {
+    "subject_id": "89686",
+    "hadm_id": "159809"
+  },
+  {
+    "subject_id": "92283",
+    "hadm_id": "104872"
+  },
+  {
+    "subject_id": "91788",
+    "hadm_id": "143409"
+  },
+  {
+    "subject_id": "99469",
+    "hadm_id": "179324"
+  },
+  {
+    "subject_id": "94431",
+    "hadm_id": "156573"
+  },
+  {
+    "subject_id": "89481",
+    "hadm_id": "133430"
+  },
+  {
+    "subject_id": "89268",
+    "hadm_id": "171828"
+  },
+  {
+    "subject_id": "94574",
+    "hadm_id": "186096"
+  },
+  {
+    "subject_id": "97714",
+    "hadm_id": "187736"
+  },
+  {
+    "subject_id": "93388",
+    "hadm_id": "169954"
+  },
+  {
+    "subject_id": "96346",
+    "hadm_id": "184792"
+  },
+  {
+    "subject_id": "89546",
+    "hadm_id": "174350"
+  },
+  {
+    "subject_id": "89735",
+    "hadm_id": "134439"
+  },
+  {
+    "subject_id": "92295",
+    "hadm_id": "111545"
+  },
+  {
+    "subject_id": "94869",
+    "hadm_id": "159145"
+  },
+  {
+    "subject_id": "98299",
+    "hadm_id": "112205"
+  },
+  {
+    "subject_id": "92989",
+    "hadm_id": "162725"
+  },
+  {
+    "subject_id": "91525",
+    "hadm_id": "139858"
+  },
+  {
+    "subject_id": "93147",
+    "hadm_id": "139340"
+  },
+  {
+    "subject_id": "90626",
+    "hadm_id": "103683"
+  },
+  {
+    "subject_id": "92843",
+    "hadm_id": "181907"
+  },
+  {
+    "subject_id": "97916",
+    "hadm_id": "148314"
+  },
+  {
+    "subject_id": "97543",
+    "hadm_id": "136264"
+  },
+  {
+    "subject_id": "99282",
+    "hadm_id": "123195"
+  },
+  {
+    "subject_id": "91838",
+    "hadm_id": "194224"
+  },
+  {
+    "subject_id": "95909",
+    "hadm_id": "178377"
+  },
+  {
+    "subject_id": "89483",
+    "hadm_id": "137215"
+  },
+  {
+    "subject_id": "93840",
+    "hadm_id": "103601"
+  },
+  {
+    "subject_id": "91101",
+    "hadm_id": "144211"
+  },
+  {
+    "subject_id": "95241",
+    "hadm_id": "159843"
+  },
+  {
+    "subject_id": "99247",
+    "hadm_id": "155940"
+  },
+  {
+    "subject_id": "99440",
+    "hadm_id": "147320"
+  },
+  {
+    "subject_id": "91934",
+    "hadm_id": "196304"
+  },
+  {
+    "subject_id": "95863",
+    "hadm_id": "175659"
+  },
+  {
+    "subject_id": "97795",
+    "hadm_id": "130556"
+  },
+  {
+    "subject_id": "94853",
+    "hadm_id": "197339"
+  },
+  {
+    "subject_id": "94234",
+    "hadm_id": "162751"
+  },
+  {
+    "subject_id": "96519",
+    "hadm_id": "199659"
+  },
+  {
+    "subject_id": "91549",
+    "hadm_id": "169861"
+  },
+  {
+    "subject_id": "94224",
+    "hadm_id": "189189"
+  },
+  {
+    "subject_id": "90171",
+    "hadm_id": "174153"
+  },
+  {
+    "subject_id": "95705",
+    "hadm_id": "180095"
+  },
+  {
+    "subject_id": "89752",
+    "hadm_id": "112629"
+  },
+  {
+    "subject_id": "92916",
+    "hadm_id": "105248"
+  },
+  {
+    "subject_id": "90910",
+    "hadm_id": "102763"
+  },
+  {
+    "subject_id": "95380",
+    "hadm_id": "143987"
+  },
+  {
+    "subject_id": "90533",
+    "hadm_id": "180951"
+  },
+  {
+    "subject_id": "99088",
+    "hadm_id": "135006"
+  },
+  {
+    "subject_id": "90720",
+    "hadm_id": "191350"
+  },
+  {
+    "subject_id": "95160",
+    "hadm_id": "129146"
+  },
+  {
+    "subject_id": "93718",
+    "hadm_id": "151236"
+  },
+  {
+    "subject_id": "96394",
+    "hadm_id": "147603"
+  },
+  {
+    "subject_id": "97102",
+    "hadm_id": "191530"
+  },
+  {
+    "subject_id": "89348",
+    "hadm_id": "120120"
+  },
+  {
+    "subject_id": "94977",
+    "hadm_id": "128811"
+  },
+  {
+    "subject_id": "95993",
+    "hadm_id": "161471"
+  },
+  {
+    "subject_id": "98384",
+    "hadm_id": "135001"
+  },
+  {
+    "subject_id": "98759",
+    "hadm_id": "109836"
+  },
+  {
+    "subject_id": "93853",
+    "hadm_id": "154345"
+  },
+  {
+    "subject_id": "91853",
+    "hadm_id": "114491"
+  },
+  {
+    "subject_id": "94232",
+    "hadm_id": "184806"
+  },
+  {
+    "subject_id": "89797",
+    "hadm_id": "146371"
+  },
+  {
+    "subject_id": "90522",
+    "hadm_id": "101006"
+  },
+  {
+    "subject_id": "95830",
+    "hadm_id": "137236"
+  },
+  {
+    "subject_id": "90403",
+    "hadm_id": "142145"
+  },
+  {
+    "subject_id": "96863",
+    "hadm_id": "179477"
+  },
+  {
+    "subject_id": "97830",
+    "hadm_id": "112817"
+  },
+  {
+    "subject_id": "98494",
+    "hadm_id": "105916"
+  },
+  {
+    "subject_id": "99485",
+    "hadm_id": "198458"
+  },
+  {
+    "subject_id": "99294",
+    "hadm_id": "187328"
+  },
+  {
+    "subject_id": "91763",
+    "hadm_id": "192081"
+  },
+  {
+    "subject_id": "94135",
+    "hadm_id": "100349"
+  },
+  {
+    "subject_id": "91462",
+    "hadm_id": "136319"
+  },
+  {
+    "subject_id": "94636",
+    "hadm_id": "149941"
+  },
+  {
+    "subject_id": "98389",
+    "hadm_id": "155368"
+  },
+  {
+    "subject_id": "95377",
+    "hadm_id": "161179"
+  },
+  {
+    "subject_id": "90929",
+    "hadm_id": "174532"
+  },
+  {
+    "subject_id": "89167",
+    "hadm_id": "194892"
+  },
+  {
+    "subject_id": "91239",
+    "hadm_id": "104089"
+  },
+  {
+    "subject_id": "90327",
+    "hadm_id": "134842"
+  },
+  {
+    "subject_id": "93500",
+    "hadm_id": "122452"
+  },
+  {
+    "subject_id": "89575",
+    "hadm_id": "198482"
+  },
+  {
+    "subject_id": "90446",
+    "hadm_id": "122251"
+  },
+  {
+    "subject_id": "91017",
+    "hadm_id": "193310"
+  },
+  {
+    "subject_id": "91905",
+    "hadm_id": "106673"
+  },
+  {
+    "subject_id": "95122",
+    "hadm_id": "190357"
+  },
+  {
+    "subject_id": "94798",
+    "hadm_id": "194576"
+  },
+  {
+    "subject_id": "91682",
+    "hadm_id": "107226"
+  },
+  {
+    "subject_id": "97781",
+    "hadm_id": "113353"
+  },
+  {
+    "subject_id": "94448",
+    "hadm_id": "101715"
+  },
+  {
+    "subject_id": "99616",
+    "hadm_id": "135329"
+  },
+  {
+    "subject_id": "89917",
+    "hadm_id": "115450"
+  },
+  {
+    "subject_id": "91090",
+    "hadm_id": "183689"
+  },
+  {
+    "subject_id": "90648",
+    "hadm_id": "179886"
+  },
+  {
+    "subject_id": "99556",
+    "hadm_id": "150440"
+  },
+  {
+    "subject_id": "90369",
+    "hadm_id": "107104"
+  },
+  {
+    "subject_id": "90875",
+    "hadm_id": "100494"
+  },
+  {
+    "subject_id": "99322",
+    "hadm_id": "169771"
+  },
+  {
+    "subject_id": "89725",
+    "hadm_id": "147104"
+  },
+  {
+    "subject_id": "93823",
+    "hadm_id": "108843"
+  },
+  {
+    "subject_id": "94924",
+    "hadm_id": "151078"
+  },
+  {
+    "subject_id": "91765",
+    "hadm_id": "188657"
+  },
+  {
+    "subject_id": "92203",
+    "hadm_id": "185400"
+  },
+  {
+    "subject_id": "92137",
+    "hadm_id": "179704"
+  },
+  {
+    "subject_id": "94817",
+    "hadm_id": "108338"
+  },
+  {
+    "subject_id": "93601",
+    "hadm_id": "180558"
+  },
+  {
+    "subject_id": "97917",
+    "hadm_id": "118576"
+  },
+  {
+    "subject_id": "90967",
+    "hadm_id": "134341"
+  },
+  {
+    "subject_id": "90365",
+    "hadm_id": "139078"
+  },
+  {
+    "subject_id": "97959",
+    "hadm_id": "130096"
+  },
+  {
+    "subject_id": "89228",
+    "hadm_id": "183375"
+  },
+  {
+    "subject_id": "92993",
+    "hadm_id": "114924"
+  },
+  {
+    "subject_id": "93454",
+    "hadm_id": "142925"
+  },
+  {
+    "subject_id": "99052",
+    "hadm_id": "129142"
+  },
+  {
+    "subject_id": "94385",
+    "hadm_id": "131186"
+  },
+  {
+    "subject_id": "93637",
+    "hadm_id": "175530"
+  },
+  {
+    "subject_id": "92055",
+    "hadm_id": "112509"
+  },
+  {
+    "subject_id": "89973",
+    "hadm_id": "141712"
+  },
+  {
+    "subject_id": "89936",
+    "hadm_id": "136208"
+  },
+  {
+    "subject_id": "96377",
+    "hadm_id": "108086"
+  },
+  {
+    "subject_id": "90019",
+    "hadm_id": "134221"
+  },
+  {
+    "subject_id": "90560",
+    "hadm_id": "187141"
+  },
+  {
+    "subject_id": "92339",
+    "hadm_id": "120575"
+  },
+  {
+    "subject_id": "92939",
+    "hadm_id": "165331"
+  },
+  {
+    "subject_id": "92135",
+    "hadm_id": "147572"
+  },
+  {
+    "subject_id": "90755",
+    "hadm_id": "178684"
+  },
+  {
+    "subject_id": "96456",
+    "hadm_id": "190149"
+  },
+  {
+    "subject_id": "89119",
+    "hadm_id": "187268"
+  },
+  {
+    "subject_id": "96984",
+    "hadm_id": "110817"
+  },
+  {
+    "subject_id": "97524",
+    "hadm_id": "196298"
+  },
+  {
+    "subject_id": "96261",
+    "hadm_id": "150731"
+  },
+  {
+    "subject_id": "92571",
+    "hadm_id": "183551"
+  },
+  {
+    "subject_id": "99038",
+    "hadm_id": "124565"
+  },
+  {
+    "subject_id": "96430",
+    "hadm_id": "113912"
+  },
+  {
+    "subject_id": "93938",
+    "hadm_id": "190498"
+  },
+  {
+    "subject_id": "93976",
+    "hadm_id": "136969"
+  },
+  {
+    "subject_id": "97308",
+    "hadm_id": "141835"
+  },
+  {
+    "subject_id": "90814",
+    "hadm_id": "112318"
+  },
+  {
+    "subject_id": "94609",
+    "hadm_id": "175537"
+  },
+  {
+    "subject_id": "89585",
+    "hadm_id": "162970"
+  },
+  {
+    "subject_id": "96962",
+    "hadm_id": "163165"
+  },
+  {
+    "subject_id": "92957",
+    "hadm_id": "159069"
+  },
+  {
+    "subject_id": "93678",
+    "hadm_id": "193632"
+  },
+  {
+    "subject_id": "93284",
+    "hadm_id": "179556"
+  },
+  {
+    "subject_id": "89148",
+    "hadm_id": "145375"
+  },
+  {
+    "subject_id": "93679",
+    "hadm_id": "140977"
+  },
+  {
+    "subject_id": "95816",
+    "hadm_id": "122432"
+  },
+  {
+    "subject_id": "89137",
+    "hadm_id": "116803"
+  },
+  {
+    "subject_id": "97567",
+    "hadm_id": "176869"
+  },
+  {
+    "subject_id": "93025",
+    "hadm_id": "163620"
+  },
+  {
+    "subject_id": "90228",
+    "hadm_id": "144561"
+  },
+  {
+    "subject_id": "99559",
+    "hadm_id": "146121"
+  },
+  {
+    "subject_id": "91498",
+    "hadm_id": "166003"
+  },
+  {
+    "subject_id": "97038",
+    "hadm_id": "127778"
+  },
+  {
+    "subject_id": "93422",
+    "hadm_id": "147457"
+  },
+  {
+    "subject_id": "94977",
+    "hadm_id": "121035"
+  },
+  {
+    "subject_id": "90508",
+    "hadm_id": "125285"
+  },
+  {
+    "subject_id": "96908",
+    "hadm_id": "100994"
+  },
+  {
+    "subject_id": "96176",
+    "hadm_id": "176226"
+  },
+  {
+    "subject_id": "91660",
+    "hadm_id": "103630"
+  },
+  {
+    "subject_id": "94329",
+    "hadm_id": "147311"
+  },
+  {
+    "subject_id": "99085",
+    "hadm_id": "178854"
+  },
+  {
+    "subject_id": "90061",
+    "hadm_id": "198516"
+  },
+  {
+    "subject_id": "91572",
+    "hadm_id": "198039"
+  },
+  {
+    "subject_id": "91758",
+    "hadm_id": "113265"
+  },
+  {
+    "subject_id": "93806",
+    "hadm_id": "174128"
+  },
+  {
+    "subject_id": "94767",
+    "hadm_id": "184200"
+  },
+  {
+    "subject_id": "95440",
+    "hadm_id": "109124"
+  },
+  {
+    "subject_id": "92861",
+    "hadm_id": "145434"
+  },
+  {
+    "subject_id": "97666",
+    "hadm_id": "158220"
+  },
+  {
+    "subject_id": "96404",
+    "hadm_id": "187255"
+  },
+  {
+    "subject_id": "96309",
+    "hadm_id": "183337"
+  },
+  {
+    "subject_id": "91242",
+    "hadm_id": "178814"
+  },
+  {
+    "subject_id": "99383",
+    "hadm_id": "176477"
+  },
+  {
+    "subject_id": "89488",
+    "hadm_id": "150565"
+  },
+  {
+    "subject_id": "92516",
+    "hadm_id": "180108"
+  },
+  {
+    "subject_id": "89560",
+    "hadm_id": "120415"
+  },
+  {
+    "subject_id": "97301",
+    "hadm_id": "195551"
+  },
+  {
+    "subject_id": "97923",
+    "hadm_id": "166958"
+  },
+  {
+    "subject_id": "91221",
+    "hadm_id": "105747"
+  },
+  {
+    "subject_id": "91581",
+    "hadm_id": "197165"
+  },
+  {
+    "subject_id": "93900",
+    "hadm_id": "199677"
+  },
+  {
+    "subject_id": "91500",
+    "hadm_id": "171310"
+  },
+  {
+    "subject_id": "90460",
+    "hadm_id": "142782"
+  },
+  {
+    "subject_id": "90890",
+    "hadm_id": "118730"
+  },
+  {
+    "subject_id": "98159",
+    "hadm_id": "102805"
+  },
+  {
+    "subject_id": "90472",
+    "hadm_id": "120129"
+  },
+  {
+    "subject_id": "92651",
+    "hadm_id": "158433"
+  },
+  {
+    "subject_id": "90716",
+    "hadm_id": "149105"
+  },
+  {
+    "subject_id": "90121",
+    "hadm_id": "196464"
+  },
+  {
+    "subject_id": "93838",
+    "hadm_id": "102946"
+  },
+  {
+    "subject_id": "89927",
+    "hadm_id": "159204"
+  },
+  {
+    "subject_id": "92405",
+    "hadm_id": "166823"
+  },
+  {
+    "subject_id": "97902",
+    "hadm_id": "134998"
+  },
+  {
+    "subject_id": "90807",
+    "hadm_id": "141455"
+  },
+  {
+    "subject_id": "92373",
+    "hadm_id": "130520"
+  },
+  {
+    "subject_id": "94553",
+    "hadm_id": "141140"
+  },
+  {
+    "subject_id": "99883",
+    "hadm_id": "150755"
+  },
+  {
+    "subject_id": "97212",
+    "hadm_id": "184462"
+  },
+  {
+    "subject_id": "92487",
+    "hadm_id": "187054"
+  },
+  {
+    "subject_id": "95959",
+    "hadm_id": "130710"
+  },
+  {
+    "subject_id": "96421",
+    "hadm_id": "101302"
+  },
+  {
+    "subject_id": "90697",
+    "hadm_id": "136658"
+  },
+  {
+    "subject_id": "97841",
+    "hadm_id": "165710"
+  },
+  {
+    "subject_id": "98813",
+    "hadm_id": "194565"
+  },
+  {
+    "subject_id": "90708",
+    "hadm_id": "116884"
+  },
+  {
+    "subject_id": "93475",
+    "hadm_id": "195774"
+  },
+  {
+    "subject_id": "92919",
+    "hadm_id": "189019"
+  },
+  {
+    "subject_id": "97467",
+    "hadm_id": "167244"
+  },
+  {
+    "subject_id": "97736",
+    "hadm_id": "177830"
+  },
+  {
+    "subject_id": "93211",
+    "hadm_id": "125085"
+  },
+  {
+    "subject_id": "98226",
+    "hadm_id": "116467"
+  },
+  {
+    "subject_id": "99408",
+    "hadm_id": "126611"
+  },
+  {
+    "subject_id": "98281",
+    "hadm_id": "117684"
+  },
+  {
+    "subject_id": "90396",
+    "hadm_id": "126879"
+  },
+  {
+    "subject_id": "90628",
+    "hadm_id": "198744"
+  },
+  {
+    "subject_id": "97181",
+    "hadm_id": "147084"
+  },
+  {
+    "subject_id": "90460",
+    "hadm_id": "197023"
+  },
+  {
+    "subject_id": "94937",
+    "hadm_id": "162005"
+  },
+  {
+    "subject_id": "98939",
+    "hadm_id": "115549"
+  },
+  {
+    "subject_id": "99023",
+    "hadm_id": "113927"
+  },
+  {
+    "subject_id": "91465",
+    "hadm_id": "131148"
+  },
+  {
+    "subject_id": "90846",
+    "hadm_id": "132723"
+  },
+  {
+    "subject_id": "97942",
+    "hadm_id": "177936"
+  },
+  {
+    "subject_id": "99509",
+    "hadm_id": "191200"
+  },
+  {
+    "subject_id": "94597",
+    "hadm_id": "155980"
+  },
+  {
+    "subject_id": "91814",
+    "hadm_id": "127737"
+  },
+  {
+    "subject_id": "92212",
+    "hadm_id": "148159"
+  },
+  {
+    "subject_id": "89160",
+    "hadm_id": "166433"
+  },
+  {
+    "subject_id": "94610",
+    "hadm_id": "105936"
+  },
+  {
+    "subject_id": "90805",
+    "hadm_id": "170640"
+  },
+  {
+    "subject_id": "99165",
+    "hadm_id": "199565"
+  },
+  {
+    "subject_id": "91398",
+    "hadm_id": "118740"
+  },
+  {
+    "subject_id": "96200",
+    "hadm_id": "162227"
+  },
+  {
+    "subject_id": "92615",
+    "hadm_id": "102566"
+  },
+  {
+    "subject_id": "94687",
+    "hadm_id": "196208"
+  },
+  {
+    "subject_id": "98744",
+    "hadm_id": "153703"
+  },
+  {
+    "subject_id": "98417",
+    "hadm_id": "127156"
+  },
+  {
+    "subject_id": "93191",
+    "hadm_id": "131472"
+  },
+  {
+    "subject_id": "90020",
+    "hadm_id": "181840"
+  },
+  {
+    "subject_id": "99439",
+    "hadm_id": "177794"
+  },
+  {
+    "subject_id": "98385",
+    "hadm_id": "195599"
+  },
+  {
+    "subject_id": "96632",
+    "hadm_id": "165048"
+  },
+  {
+    "subject_id": "94260",
+    "hadm_id": "166585"
+  },
+  {
+    "subject_id": "92612",
+    "hadm_id": "131770"
+  },
+  {
+    "subject_id": "96630",
+    "hadm_id": "119902"
+  },
+  {
+    "subject_id": "89873",
+    "hadm_id": "179348"
+  },
+  {
+    "subject_id": "97837",
+    "hadm_id": "160324"
+  },
+  {
+    "subject_id": "96278",
+    "hadm_id": "141459"
+  },
+  {
+    "subject_id": "91539",
+    "hadm_id": "139047"
+  },
+  {
+    "subject_id": "93240",
+    "hadm_id": "182529"
+  },
+  {
+    "subject_id": "93265",
+    "hadm_id": "108360"
+  },
+  {
+    "subject_id": "99912",
+    "hadm_id": "189380"
+  },
+  {
+    "subject_id": "96350",
+    "hadm_id": "103797"
+  },
+  {
+    "subject_id": "93566",
+    "hadm_id": "139770"
+  },
+  {
+    "subject_id": "89419",
+    "hadm_id": "170766"
+  },
+  {
+    "subject_id": "91002",
+    "hadm_id": "186811"
+  },
+  {
+    "subject_id": "93209",
+    "hadm_id": "159617"
+  },
+  {
+    "subject_id": "92873",
+    "hadm_id": "140775"
+  },
+  {
+    "subject_id": "91673",
+    "hadm_id": "175062"
+  },
+  {
+    "subject_id": "94763",
+    "hadm_id": "140745"
+  },
+  {
+    "subject_id": "98488",
+    "hadm_id": "193728"
+  },
+  {
+    "subject_id": "95706",
+    "hadm_id": "169554"
+  },
+  {
+    "subject_id": "89769",
+    "hadm_id": "199645"
+  },
+  {
+    "subject_id": "94698",
+    "hadm_id": "102396"
+  },
+  {
+    "subject_id": "90020",
+    "hadm_id": "195394"
+  },
+  {
+    "subject_id": "98593",
+    "hadm_id": "116059"
+  },
+  {
+    "subject_id": "99712",
+    "hadm_id": "159835"
+  },
+  {
+    "subject_id": "98342",
+    "hadm_id": "159869"
+  },
+  {
+    "subject_id": "96374",
+    "hadm_id": "137427"
+  },
+  {
+    "subject_id": "91939",
+    "hadm_id": "149837"
+  },
+  {
+    "subject_id": "98744",
+    "hadm_id": "184410"
+  },
+  {
+    "subject_id": "99018",
+    "hadm_id": "194096"
+  },
+  {
+    "subject_id": "96701",
+    "hadm_id": "115756"
+  },
+  {
+    "subject_id": "91554",
+    "hadm_id": "160747"
+  },
+  {
+    "subject_id": "98188",
+    "hadm_id": "103440"
+  },
+  {
+    "subject_id": "96637",
+    "hadm_id": "111919"
+  },
+  {
+    "subject_id": "94838",
+    "hadm_id": "140463"
+  },
+  {
+    "subject_id": "96182",
+    "hadm_id": "113740"
+  },
+  {
+    "subject_id": "93900",
+    "hadm_id": "171664"
+  },
+  {
+    "subject_id": "90142",
+    "hadm_id": "197659"
+  },
+  {
+    "subject_id": "91866",
+    "hadm_id": "134600"
+  },
+  {
+    "subject_id": "90365",
+    "hadm_id": "194443"
+  },
+  {
+    "subject_id": "99299",
+    "hadm_id": "173241"
+  },
+  {
+    "subject_id": "98813",
+    "hadm_id": "190264"
+  },
+  {
+    "subject_id": "99781",
+    "hadm_id": "167791"
+  },
+  {
+    "subject_id": "97683",
+    "hadm_id": "119454"
+  },
+  {
+    "subject_id": "97932",
+    "hadm_id": "178301"
+  },
+  {
+    "subject_id": "98573",
+    "hadm_id": "175201"
+  },
+  {
+    "subject_id": "89633",
+    "hadm_id": "140269"
+  },
+  {
+    "subject_id": "91149",
+    "hadm_id": "106136"
+  },
+  {
+    "subject_id": "97547",
+    "hadm_id": "127852"
+  },
+  {
+    "subject_id": "96046",
+    "hadm_id": "110289"
+  },
+  {
+    "subject_id": "90447",
+    "hadm_id": "186213"
+  },
+  {
+    "subject_id": "89817",
+    "hadm_id": "173180"
+  },
+  {
+    "subject_id": "94574",
+    "hadm_id": "111180"
+  },
+  {
+    "subject_id": "99451",
+    "hadm_id": "176459"
+  },
+  {
+    "subject_id": "97124",
+    "hadm_id": "169884"
+  },
+  {
+    "subject_id": "98303",
+    "hadm_id": "144286"
+  },
+  {
+    "subject_id": "99937",
+    "hadm_id": "129380"
+  },
+  {
+    "subject_id": "91478",
+    "hadm_id": "144699"
+  },
+  {
+    "subject_id": "99298",
+    "hadm_id": "127963"
+  },
+  {
+    "subject_id": "98256",
+    "hadm_id": "185110"
+  },
+  {
+    "subject_id": "94781",
+    "hadm_id": "184453"
+  },
+  {
+    "subject_id": "90493",
+    "hadm_id": "111396"
+  },
+  {
+    "subject_id": "99992",
+    "hadm_id": "197084"
+  },
+  {
+    "subject_id": "89758",
+    "hadm_id": "110353"
+  },
+  {
+    "subject_id": "91864",
+    "hadm_id": "134608"
+  },
+  {
+    "subject_id": "91096",
+    "hadm_id": "196043"
+  },
+  {
+    "subject_id": "90889",
+    "hadm_id": "168745"
+  },
+  {
+    "subject_id": "96746",
+    "hadm_id": "140835"
+  },
+  {
+    "subject_id": "93117",
+    "hadm_id": "163617"
+  },
+  {
+    "subject_id": "93900",
+    "hadm_id": "156863"
+  },
+  {
+    "subject_id": "99756",
+    "hadm_id": "172485"
+  },
+  {
+    "subject_id": "98118",
+    "hadm_id": "190570"
+  },
+  {
+    "subject_id": "98130",
+    "hadm_id": "127946"
+  },
+  {
+    "subject_id": "92864",
+    "hadm_id": "106855"
+  },
+  {
+    "subject_id": "94560",
+    "hadm_id": "113709"
+  },
+  {
+    "subject_id": "97920",
+    "hadm_id": "192787"
+  },
+  {
+    "subject_id": "96171",
+    "hadm_id": "102997"
+  },
+  {
+    "subject_id": "96110",
+    "hadm_id": "172107"
+  },
+  {
+    "subject_id": "96373",
+    "hadm_id": "141632"
+  },
+  {
+    "subject_id": "90376",
+    "hadm_id": "116127"
+  },
+  {
+    "subject_id": "89132",
+    "hadm_id": "198797"
+  },
+  {
+    "subject_id": "96728",
+    "hadm_id": "163600"
+  },
+  {
+    "subject_id": "96974",
+    "hadm_id": "179056"
+  },
+  {
+    "subject_id": "99412",
+    "hadm_id": "192975"
+  },
+  {
+    "subject_id": "95968",
+    "hadm_id": "114712"
+  },
+  {
+    "subject_id": "96908",
+    "hadm_id": "149629"
+  },
+  {
+    "subject_id": "96950",
+    "hadm_id": "169823"
+  },
+  {
+    "subject_id": "90466",
+    "hadm_id": "125334"
+  },
+  {
+    "subject_id": "95077",
+    "hadm_id": "115541"
+  },
+  {
+    "subject_id": "92292",
+    "hadm_id": "153237"
+  },
+  {
+    "subject_id": "97316",
+    "hadm_id": "169543"
+  },
+  {
+    "subject_id": "96388",
+    "hadm_id": "151825"
+  },
+  {
+    "subject_id": "95424",
+    "hadm_id": "156560"
+  },
+  {
+    "subject_id": "89536",
+    "hadm_id": "174278"
+  },
+  {
+    "subject_id": "93991",
+    "hadm_id": "125524"
+  },
+  {
+    "subject_id": "93045",
+    "hadm_id": "155035"
+  },
+  {
+    "subject_id": "98931",
+    "hadm_id": "133126"
+  },
+  {
+    "subject_id": "94012",
+    "hadm_id": "165809"
+  },
+  {
+    "subject_id": "92872",
+    "hadm_id": "175600"
+  },
+  {
+    "subject_id": "99785",
+    "hadm_id": "120655"
+  },
+  {
+    "subject_id": "96546",
+    "hadm_id": "169851"
+  },
+  {
+    "subject_id": "96777",
+    "hadm_id": "114995"
+  },
+  {
+    "subject_id": "93571",
+    "hadm_id": "167426"
+  },
+  {
+    "subject_id": "97990",
+    "hadm_id": "110157"
+  },
+  {
+    "subject_id": "91323",
+    "hadm_id": "137508"
+  },
+  {
+    "subject_id": "89712",
+    "hadm_id": "190315"
+  },
+  {
+    "subject_id": "94023",
+    "hadm_id": "114854"
+  },
+  {
+    "subject_id": "99064",
+    "hadm_id": "126677"
+  },
+  {
+    "subject_id": "96767",
+    "hadm_id": "163647"
+  },
+  {
+    "subject_id": "90425",
+    "hadm_id": "115915"
+  },
+  {
+    "subject_id": "95611",
+    "hadm_id": "105027"
+  },
+  {
+    "subject_id": "94005",
+    "hadm_id": "174933"
+  },
+  {
+    "subject_id": "97765",
+    "hadm_id": "118349"
+  },
+  {
+    "subject_id": "91438",
+    "hadm_id": "160476"
+  },
+  {
+    "subject_id": "98003",
+    "hadm_id": "188840"
+  },
+  {
+    "subject_id": "97158",
+    "hadm_id": "152158"
+  },
+  {
+    "subject_id": "90111",
+    "hadm_id": "124067"
+  },
+  {
+    "subject_id": "92092",
+    "hadm_id": "134394"
+  },
+  {
+    "subject_id": "96675",
+    "hadm_id": "194509"
+  },
+  {
+    "subject_id": "94125",
+    "hadm_id": "187893"
+  },
+  {
+    "subject_id": "97525",
+    "hadm_id": "187117"
+  },
+  {
+    "subject_id": "98040",
+    "hadm_id": "101463"
+  },
+  {
+    "subject_id": "90451",
+    "hadm_id": "192469"
+  },
+  {
+    "subject_id": "95561",
+    "hadm_id": "121289"
+  },
+  {
+    "subject_id": "96049",
+    "hadm_id": "166616"
+  },
+  {
+    "subject_id": "92094",
+    "hadm_id": "101525"
+  },
+  {
+    "subject_id": "97564",
+    "hadm_id": "133489"
+  },
+  {
+    "subject_id": "97659",
+    "hadm_id": "117383"
+  },
+  {
+    "subject_id": "93541",
+    "hadm_id": "160567"
+  },
+  {
+    "subject_id": "99810",
+    "hadm_id": "196261"
+  },
+  {
+    "subject_id": "97917",
+    "hadm_id": "109017"
+  },
+  {
+    "subject_id": "98744",
+    "hadm_id": "104396"
+  },
+  {
+    "subject_id": "92625",
+    "hadm_id": "194695"
+  },
+  {
+    "subject_id": "99358",
+    "hadm_id": "138254"
+  },
+  {
+    "subject_id": "97974",
+    "hadm_id": "111444"
+  },
+  {
+    "subject_id": "91428",
+    "hadm_id": "147545"
+  },
+  {
+    "subject_id": "99065",
+    "hadm_id": "143271"
+  },
+  {
+    "subject_id": "90478",
+    "hadm_id": "170943"
+  },
+  {
+    "subject_id": "89867",
+    "hadm_id": "157522"
+  },
+  {
+    "subject_id": "95909",
+    "hadm_id": "182370"
+  },
+  {
+    "subject_id": "90987",
+    "hadm_id": "158688"
+  },
+  {
+    "subject_id": "99255",
+    "hadm_id": "155692"
+  },
+  {
+    "subject_id": "89719",
+    "hadm_id": "103453"
+  },
+  {
+    "subject_id": "90926",
+    "hadm_id": "181337"
+  },
+  {
+    "subject_id": "91024",
+    "hadm_id": "131794"
+  },
+  {
+    "subject_id": "91298",
+    "hadm_id": "132321"
+  },
+  {
+    "subject_id": "94335",
+    "hadm_id": "182380"
+  },
+  {
+    "subject_id": "91458",
+    "hadm_id": "190457"
+  },
+  {
+    "subject_id": "96468",
+    "hadm_id": "119221"
+  },
+  {
+    "subject_id": "92331",
+    "hadm_id": "195546"
+  },
+  {
+    "subject_id": "95830",
+    "hadm_id": "179082"
+  },
+  {
+    "subject_id": "91484",
+    "hadm_id": "147153"
+  },
+  {
+    "subject_id": "95523",
+    "hadm_id": "125549"
+  },
+  {
+    "subject_id": "99260",
+    "hadm_id": "181010"
+  },
+  {
+    "subject_id": "98336",
+    "hadm_id": "123238"
+  },
+  {
+    "subject_id": "95323",
+    "hadm_id": "142423"
+  },
+  {
+    "subject_id": "91143",
+    "hadm_id": "160074"
+  },
+  {
+    "subject_id": "92772",
+    "hadm_id": "144209"
+  },
+  {
+    "subject_id": "93679",
+    "hadm_id": "139207"
+  },
+  {
+    "subject_id": "95793",
+    "hadm_id": "174563"
+  },
+  {
+    "subject_id": "94912",
+    "hadm_id": "197546"
+  },
+  {
+    "subject_id": "91989",
+    "hadm_id": "186557"
+  },
+  {
+    "subject_id": "90026",
+    "hadm_id": "168184"
+  },
+  {
+    "subject_id": "97663",
+    "hadm_id": "189682"
+  },
+  {
+    "subject_id": "95344",
+    "hadm_id": "195056"
+  },
+  {
+    "subject_id": "94300",
+    "hadm_id": "118770"
+  },
+  {
+    "subject_id": "93348",
+    "hadm_id": "135234"
+  },
+  {
+    "subject_id": "97625",
+    "hadm_id": "175780"
+  },
+  {
+    "subject_id": "94785",
+    "hadm_id": "136284"
+  },
+  {
+    "subject_id": "94597",
+    "hadm_id": "189347"
+  },
+  {
+    "subject_id": "99650",
+    "hadm_id": "190854"
+  },
+  {
+    "subject_id": "98195",
+    "hadm_id": "155149"
+  },
+  {
+    "subject_id": "94962",
+    "hadm_id": "164132"
+  },
+  {
+    "subject_id": "95225",
+    "hadm_id": "145192"
+  },
+  {
+    "subject_id": "89316",
+    "hadm_id": "111236"
+  },
+  {
+    "subject_id": "90605",
+    "hadm_id": "176015"
+  },
+  {
+    "subject_id": "89689",
+    "hadm_id": "184112"
+  },
+  {
+    "subject_id": "93717",
+    "hadm_id": "148076"
+  },
+  {
+    "subject_id": "97582",
+    "hadm_id": "166145"
+  },
+  {
+    "subject_id": "93378",
+    "hadm_id": "181954"
+  },
+  {
+    "subject_id": "92200",
+    "hadm_id": "197013"
+  },
+  {
+    "subject_id": "96364",
+    "hadm_id": "143122"
+  },
+  {
+    "subject_id": "96540",
+    "hadm_id": "182238"
+  },
+  {
+    "subject_id": "95380",
+    "hadm_id": "198194"
+  },
+  {
+    "subject_id": "96797",
+    "hadm_id": "165704"
+  },
+  {
+    "subject_id": "99164",
+    "hadm_id": "120468"
+  },
+  {
+    "subject_id": "92117",
+    "hadm_id": "125737"
+  },
+  {
+    "subject_id": "89577",
+    "hadm_id": "143639"
+  },
+  {
+    "subject_id": "91511",
+    "hadm_id": "184851"
+  },
+  {
+    "subject_id": "99361",
+    "hadm_id": "175028"
+  },
+  {
+    "subject_id": "95000",
+    "hadm_id": "166982"
+  },
+  {
+    "subject_id": "91705",
+    "hadm_id": "171667"
+  },
+  {
+    "subject_id": "95310",
+    "hadm_id": "133622"
+  },
+  {
+    "subject_id": "97539",
+    "hadm_id": "178571"
+  },
+  {
+    "subject_id": "89310",
+    "hadm_id": "116877"
+  },
+  {
+    "subject_id": "99439",
+    "hadm_id": "196246"
+  },
+  {
+    "subject_id": "98167",
+    "hadm_id": "165010"
+  },
+  {
+    "subject_id": "92644",
+    "hadm_id": "132124"
+  },
+  {
+    "subject_id": "98593",
+    "hadm_id": "145414"
+  },
+  {
+    "subject_id": "96305",
+    "hadm_id": "124651"
+  },
+  {
+    "subject_id": "93245",
+    "hadm_id": "190960"
+  },
+  {
+    "subject_id": "90070",
+    "hadm_id": "162857"
+  },
+  {
+    "subject_id": "93638",
+    "hadm_id": "104047"
+  },
+  {
+    "subject_id": "98309",
+    "hadm_id": "168521"
+  },
+  {
+    "subject_id": "89797",
+    "hadm_id": "119047"
+  },
+  {
+    "subject_id": "90688",
+    "hadm_id": "107472"
+  },
+  {
+    "subject_id": "96468",
+    "hadm_id": "171641"
+  },
+  {
+    "subject_id": "90801",
+    "hadm_id": "118694"
+  },
+  {
+    "subject_id": "98593",
+    "hadm_id": "176136"
+  },
+  {
+    "subject_id": "99554",
+    "hadm_id": "173030"
+  },
+  {
+    "subject_id": "96947",
+    "hadm_id": "147983"
+  },
+  {
+    "subject_id": "97206",
+    "hadm_id": "115540"
+  },
+  {
+    "subject_id": "98484",
+    "hadm_id": "124412"
+  },
+  {
+    "subject_id": "94673",
+    "hadm_id": "120029"
+  },
+  {
+    "subject_id": "94341",
+    "hadm_id": "170628"
+  },
+  {
+    "subject_id": "95734",
+    "hadm_id": "159534"
+  },
+  {
+    "subject_id": "90008",
+    "hadm_id": "106899"
+  },
+  {
+    "subject_id": "91548",
+    "hadm_id": "108311"
+  },
+  {
+    "subject_id": "91493",
+    "hadm_id": "195922"
+  },
+  {
+    "subject_id": "93664",
+    "hadm_id": "147833"
+  },
+  {
+    "subject_id": "99118",
+    "hadm_id": "155773"
+  },
+  {
+    "subject_id": "93468",
+    "hadm_id": "170946"
+  },
+  {
+    "subject_id": "99002",
+    "hadm_id": "116519"
+  },
+  {
+    "subject_id": "95561",
+    "hadm_id": "152354"
+  },
+  {
+    "subject_id": "90676",
+    "hadm_id": "113779"
+  },
+  {
+    "subject_id": "99096",
+    "hadm_id": "190010"
+  },
+  {
+    "subject_id": "98565",
+    "hadm_id": "170208"
+  },
+  {
+    "subject_id": "98227",
+    "hadm_id": "165553"
+  },
+  {
+    "subject_id": "95843",
+    "hadm_id": "193461"
+  },
+  {
+    "subject_id": "94029",
+    "hadm_id": "111325"
+  },
+  {
+    "subject_id": "90479",
+    "hadm_id": "146137"
+  },
+  {
+    "subject_id": "91613",
+    "hadm_id": "184996"
+  },
+  {
+    "subject_id": "92438",
+    "hadm_id": "151523"
+  },
+  {
+    "subject_id": "97577",
+    "hadm_id": "105134"
+  },
+  {
+    "subject_id": "97842",
+    "hadm_id": "142178"
+  },
+  {
+    "subject_id": "93949",
+    "hadm_id": "113347"
+  },
+  {
+    "subject_id": "98994",
+    "hadm_id": "132172"
+  },
+  {
+    "subject_id": "91557",
+    "hadm_id": "185452"
+  },
+  {
+    "subject_id": "90269",
+    "hadm_id": "184760"
+  },
+  {
+    "subject_id": "90020",
+    "hadm_id": "188202"
+  },
+  {
+    "subject_id": "94696",
+    "hadm_id": "180103"
+  },
+  {
+    "subject_id": "99299",
+    "hadm_id": "166418"
+  },
+  {
+    "subject_id": "94886",
+    "hadm_id": "174748"
+  },
+  {
+    "subject_id": "94992",
+    "hadm_id": "140173"
+  },
+  {
+    "subject_id": "97237",
+    "hadm_id": "123708"
+  },
+  {
+    "subject_id": "96962",
+    "hadm_id": "172970"
+  },
+  {
+    "subject_id": "98944",
+    "hadm_id": "112849"
+  },
+  {
+    "subject_id": "90396",
+    "hadm_id": "198061"
+  },
+  {
+    "subject_id": "93078",
+    "hadm_id": "195092"
+  },
+  {
+    "subject_id": "95819",
+    "hadm_id": "138832"
+  },
+  {
+    "subject_id": "94255",
+    "hadm_id": "142254"
+  },
+  {
+    "subject_id": "98982",
+    "hadm_id": "167146"
+  },
+  {
+    "subject_id": "93506",
+    "hadm_id": "161778"
+  },
+  {
+    "subject_id": "98103",
+    "hadm_id": "133463"
+  },
+  {
+    "subject_id": "93667",
+    "hadm_id": "129223"
+  },
+  {
+    "subject_id": "89992",
+    "hadm_id": "197243"
+  },
+  {
+    "subject_id": "93515",
+    "hadm_id": "147566"
+  },
+  {
+    "subject_id": "91519",
+    "hadm_id": "134684"
+  },
+  {
+    "subject_id": "97004",
+    "hadm_id": "127867"
+  },
+  {
+    "subject_id": "89493",
+    "hadm_id": "113607"
+  },
+  {
+    "subject_id": "99560",
+    "hadm_id": "152883"
+  },
+  {
+    "subject_id": "94241",
+    "hadm_id": "167850"
+  },
+  {
+    "subject_id": "97206",
+    "hadm_id": "110487"
+  },
+  {
+    "subject_id": "93387",
+    "hadm_id": "107381"
+  },
+  {
+    "subject_id": "99448",
+    "hadm_id": "101704"
+  },
+  {
+    "subject_id": "91739",
+    "hadm_id": "184265"
+  },
+  {
+    "subject_id": "97840",
+    "hadm_id": "100561"
+  },
+  {
+    "subject_id": "93325",
+    "hadm_id": "141697"
+  },
+  {
+    "subject_id": "96843",
+    "hadm_id": "121830"
+  },
+  {
+    "subject_id": "98252",
+    "hadm_id": "183811"
+  },
+  {
+    "subject_id": "93365",
+    "hadm_id": "172040"
+  },
+  {
+    "subject_id": "95340",
+    "hadm_id": "112846"
+  },
+  {
+    "subject_id": "99444",
+    "hadm_id": "136391"
+  },
+  {
+    "subject_id": "92003",
+    "hadm_id": "193800"
+  },
+  {
+    "subject_id": "99135",
+    "hadm_id": "165108"
+  },
+  {
+    "subject_id": "89616",
+    "hadm_id": "130455"
+  },
+  {
+    "subject_id": "95324",
+    "hadm_id": "196250"
+  },
+  {
+    "subject_id": "91143",
+    "hadm_id": "114555"
+  },
+  {
+    "subject_id": "91783",
+    "hadm_id": "125785"
+  },
+  {
+    "subject_id": "93483",
+    "hadm_id": "182801"
+  },
+  {
+    "subject_id": "92235",
+    "hadm_id": "155917"
+  },
+  {
+    "subject_id": "95380",
+    "hadm_id": "187198"
+  },
+  {
+    "subject_id": "97864",
+    "hadm_id": "168708"
+  },
+  {
+    "subject_id": "91934",
+    "hadm_id": "128156"
+  },
+  {
+    "subject_id": "93277",
+    "hadm_id": "148409"
+  },
+  {
+    "subject_id": "91242",
+    "hadm_id": "134310"
+  },
+  {
+    "subject_id": "91625",
+    "hadm_id": "188072"
+  },
+  {
+    "subject_id": "98762",
+    "hadm_id": "192767"
+  },
+  {
+    "subject_id": "95457",
+    "hadm_id": "125284"
+  },
+  {
+    "subject_id": "98279",
+    "hadm_id": "182617"
+  },
+  {
+    "subject_id": "97048",
+    "hadm_id": "123996"
+  },
+  {
+    "subject_id": "94987",
+    "hadm_id": "193169"
+  },
+  {
+    "subject_id": "95218",
+    "hadm_id": "127006"
+  },
+  {
+    "subject_id": "92648",
+    "hadm_id": "148338"
+  },
+  {
+    "subject_id": "94874",
+    "hadm_id": "157654"
+  },
+  {
+    "subject_id": "93018",
+    "hadm_id": "141382"
+  },
+  {
+    "subject_id": "90211",
+    "hadm_id": "150806"
+  },
+  {
+    "subject_id": "97733",
+    "hadm_id": "177960"
+  },
+  {
+    "subject_id": "98473",
+    "hadm_id": "106378"
+  },
+  {
+    "subject_id": "97564",
+    "hadm_id": "126302"
+  },
+  {
+    "subject_id": "99660",
+    "hadm_id": "189028"
+  },
+  {
+    "subject_id": "94119",
+    "hadm_id": "110915"
+  },
+  {
+    "subject_id": "96592",
+    "hadm_id": "104823"
+  },
+  {
+    "subject_id": "96567",
+    "hadm_id": "170347"
+  },
+  {
+    "subject_id": "96137",
+    "hadm_id": "102420"
+  },
+  {
+    "subject_id": "90802",
+    "hadm_id": "139284"
+  },
+  {
+    "subject_id": "92107",
+    "hadm_id": "192789"
+  },
+  {
+    "subject_id": "99384",
+    "hadm_id": "153102"
+  },
+  {
+    "subject_id": "91219",
+    "hadm_id": "145303"
+  },
+  {
+    "subject_id": "97294",
+    "hadm_id": "148252"
+  },
+  {
+    "subject_id": "95834",
+    "hadm_id": "190431"
+  },
+  {
+    "subject_id": "94975",
+    "hadm_id": "181965"
+  },
+  {
+    "subject_id": "92691",
+    "hadm_id": "169060"
+  },
+  {
+    "subject_id": "97830",
+    "hadm_id": "159943"
+  },
+  {
+    "subject_id": "92982",
+    "hadm_id": "138442"
+  },
+  {
+    "subject_id": "96937",
+    "hadm_id": "129034"
+  },
+  {
+    "subject_id": "95986",
+    "hadm_id": "145250"
+  },
+  {
+    "subject_id": "92185",
+    "hadm_id": "105697"
+  },
+  {
+    "subject_id": "94611",
+    "hadm_id": "186085"
+  },
+  {
+    "subject_id": "98318",
+    "hadm_id": "127041"
+  }
+]

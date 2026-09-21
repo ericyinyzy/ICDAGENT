@@ -1,0 +1,10 @@
+# Versions the reported results were produced with. torch 2.6.0+cu124 comes in
+# as a vllm dependency, so it is not pinned here.
+vllm==0.8.3
+transformers==4.51.3
+numpy==1.26.4
+peft==0.15.1
+
+# vllm 0.8.x reaches into cachetools internals that 6.x and later removed;
+# without this pin LoRA loading dies with a missing _LRUCache__update attribute.
+cachetools==5.5.2
