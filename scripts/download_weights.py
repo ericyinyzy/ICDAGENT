@@ -38,6 +38,8 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--benchmark', choices=sorted(NEEDED),
                     help='only fetch what this benchmark needs (default: everything)')
+    ap.add_argument('--only', nargs='+', choices=sorted(COMPONENTS),
+                    help='fetch just these components')
     ap.add_argument('--output', default=WEIGHTS_ROOT)
     ap.add_argument('--list', action='store_true', help='show the components and exit')
     args = ap.parse_args()
@@ -49,7 +51,7 @@ def main():
 
     from huggingface_hub import snapshot_download
 
-    wanted = NEEDED[args.benchmark] if args.benchmark else list(COMPONENTS)
+    wanted = args.only or (NEEDED[args.benchmark] if args.benchmark else list(COMPONENTS))
     for remote in wanted:
         local, size, what = COMPONENTS[remote]
         target = os.path.join(args.output, local)
